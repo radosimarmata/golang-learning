@@ -57,11 +57,31 @@ golang-learning/
 │       ├── main.go
 │       └── README.md
 ├── 06-packages-modules/
-│   ├── packages/
+│   ├── creating-packages/
+│   │   ├── mypackage/
+│   │   │   ├── mypackage.go
+│   │   │   ├── mypackage_test.go
+│   │   │   └── README.md
 │   │   ├── main.go
 │   │   └── README.md
-│   └── modules/
-│       ├── go.mod
+│   ├── go-modules/
+│   │   ├── go.mod
+│   │   ├── main.mod
+│   │   └── README.md
+│   ├── external-packages/
+│   │   ├── go.mod
+│   │   ├── go.sum
+│   │   ├── main.go
+│   │   └── README.md
+│   └── module-versioning/
+│       ├── v1/
+│       │   ├── go.mod
+│       │   ├── main.go
+│       │   └── README.md
+│       ├── v2/
+│       │   ├── go.mod
+│       │   ├── main.go
+│       │   └── README.md
 │       └── README.md
 ├── 07-testing-documentation/
 │   ├── unit-testing/
