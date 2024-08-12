@@ -47,7 +47,13 @@ golang-learning/
 │   ├── basic-errors/
 │   │   ├── main.go
 │   │   └── README.md
-│   └── custom-errors/
+│   ├── custom-errors/
+│   │   ├── main.go
+│   │   └── README.md
+│   ├── panic-recover/
+│   │   ├── main.go
+│   │   └── README.md
+│   └── wrapping-errors/
 │       ├── main.go
 │       └── README.md
 ├── 06-packages-modules/
