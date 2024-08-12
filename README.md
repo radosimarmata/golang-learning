@@ -37,7 +37,10 @@ golang-learning/
 │   ├── channels/
 │   │   ├── main.go
 │   │   └── README.md
-│   └── select/
+│   ├── select/
+│   │   ├── main.go
+│   │   └── README.md
+│   └── sync/
 │       ├── main.go
 │       └── README.md
 ├── 05-error-handling/
